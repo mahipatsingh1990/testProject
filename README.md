@@ -1,3 +1,3 @@
 # testa
-# Run npm i 
-# Run npm start
+ Run npm i 
+Run npm start
